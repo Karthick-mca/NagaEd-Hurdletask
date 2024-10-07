@@ -16,7 +16,9 @@ Success message display and console logging of input data.
 Technology Stack
 
 HTML
+
 CSS (with creative styling)
+
 JavaScript (for validation and form submission handling)
 
 Task 2: Simple RESTful API
